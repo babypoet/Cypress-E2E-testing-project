@@ -1,0 +1,24 @@
+{
+  "name": "cypress-e2e-testing-project",
+  "version": "1.0.0",
+  "description": "reusable workflow for Cypress E2E project",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babypoet/Cypress-E2E-testing-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/babypoet/Cypress-E2E-testing-project/issues"
+  },
+  "homepage": "https://github.com/babypoet/Cypress-E2E-testing-project#readme",
+  "devDependencies": {
+    "cypress": "15.9.0"
+  }
+}
